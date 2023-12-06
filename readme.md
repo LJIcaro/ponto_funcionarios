@@ -1,0 +1,1 @@
+Projeto de faculdade de um pequeno sistema para registrar saída e ponto de funcionários feito em Python, usando SQLite para o BD e o Customtkinter para interface (lembre de instalar as bibliotecas o requirements.txt)
